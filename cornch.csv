@@ -41,13 +41,13 @@ Cayman Islands,0,CYM
 Central African Republic,0,CAF
 Chad,0,TCD
 Chile,0,CHL
-China,47,CHN
-Colombia,15,COL
+China,470,CHN
+Colombia,150,COL
 Comoros,0,COM
 "Congo, Democratic Republic of the",0,COD
 "Congo, Republic of the",0,COG
 Cook Islands,0,COK
-Costa Rica,5,CRI
+Costa Rica,50,CRI
 Cote d'Ivoire,0,CIV
 Croatia,0,HRV
 Cuba,0,CUB
@@ -59,7 +59,7 @@ Djibouti,0,DJI
 Dominica,0,DMA
 Dominican Republic,0,DOM
 Ecuador,0,ECU
-Egypt,11,EGY
+Egypt,110,EGY
 El Salvador,0,SLV
 Equatorial Guinea,0,GNQ
 Eritrea,0,ERI
@@ -81,7 +81,7 @@ Greece,0,GRC
 Greenland,0,GRL
 Grenada,0,GRD
 Guam,0,GUM
-Guatemala,4,GTM
+Guatemala,40,GTM
 Guernsey,0,GGY
 Guinea-Bissau,0,GNB
 Guinea,0,GIN
@@ -97,17 +97,17 @@ Iran,0,IRN
 Iraq,0,IRQ
 Ireland,0,IRL
 Isle of Man,0,IMN
-Israel,2,ISR
-Italy,1,ITA
+Israel,20,ISR
+Italy,10,ITA
 Jamaica,0,JAM
-Japan,40,JPN
+Japan,400,JPN
 Jersey,0,JEY
 Jordan,0,JOR
 Kazakhstan,0,KAZ
 Kenya,0,KEN
 Kiribati,0,KIR
 "Korea, North",0,PRK
-"Korea, South",29,KOR
+"Korea, South",290,KOR
 Kosovo,0,KSV
 Kuwait,0,KWT
 Kyrgyzstan,0,KGZ
@@ -131,7 +131,7 @@ Malta,0,MLT
 Marshall Islands,0,MHL
 Mauritania,0,MRT
 Mauritius,0,MUS
-Mexico,111,MEX
+Mexico,1110,MEX
 "Micronesia, Federated States of",0,FSM
 Moldova,0,MDA
 Monaco,0,MCO
@@ -153,10 +153,10 @@ Norway,0,NOR
 Oman,0,OMN
 Pakistan,0,PAK
 Palau,0,PLW
-Panama,2,PAN
+Panama,20,PAN
 Papua New Guinea,0,PNG
 Paraguay,0,PRY
-Peru,1,PER
+Peru,10,PER
 Philippines,0,PHL
 Poland,0,POL
 Portugal,0,PRT
@@ -173,7 +173,7 @@ Saint Vincent and the Grenadines,0,VCT
 Samoa,0,WSM
 San Marino,0,SMR
 Sao Tome and Principe,0,STP
-Saudi Arabia,4,SAU
+Saudi Arabia,40,SAU
 Senegal,0,SEN
 Serbia,0,SRB
 Seychelles,0,SYC
@@ -186,7 +186,7 @@ Solomon Islands,0,SLB
 Somalia,0,SOM
 South Africa,0,ZAF
 South Sudan,0,SSD
-Spain,4,ESP
+Spain,40,ESP
 Sri Lanka,0,LKA
 Sudan,0,SDN
 Suriname,0,SUR
@@ -194,7 +194,7 @@ Swaziland,0,SWZ
 Sweden,0,SWE
 Switzerland,0,CHE
 Syria,0,SYR
-Taiwan,3,TWN
+Taiwan,30,TWN
 Tajikistan,0,TJK
 Tanzania,0,TZA
 Thailand,0,THA
@@ -215,7 +215,7 @@ Uruguay,0,URY
 Uzbekistan,0,UZB
 Vanuatu,0,VUT
 Venezuela,0,VEN
-Vietnam,1,VNM
+Vietnam,10,VNM
 Virgin Islands,0,VGB
 West Bank,0,WBG
 Yemen,0,YEM
